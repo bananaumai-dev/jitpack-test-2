@@ -1,0 +1,3 @@
+include ':jitpack-test2'
+include ':app'
+rootProject.name = "JitPack Test 2"
